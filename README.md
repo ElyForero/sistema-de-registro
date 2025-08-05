@@ -2,6 +2,6 @@
 
 - Estado del Proyecto: En Constucción.
 
-para ejecuta el sisema debes poner:
+para ejecutar el sistema debes poner:
 
 ´´´npm install react´´´´
